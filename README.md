@@ -5,9 +5,8 @@ Welcome to the Corpus Wine Company chatbot! This chatbot provides instant answer
 
 Before running the chatbot, make sure you have the following installed:
 Python 3.7 or higher
+
 pip (Python package installer)
-
-
 
 
 To run the Corpus Wine Company chatbot, please follow these steps:
