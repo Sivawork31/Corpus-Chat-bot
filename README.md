@@ -1,8 +1,6 @@
 # Corpus Wine Company Chatbot
 Welcome to the Corpus Wine Company chatbot! This chatbot provides instant answers to your questions about our exquisite wines. The chatbot uses a pre-defined corpus of questions and answers to help you find the information you need quickly and effortlessly.
 
-
-
 Before running the chatbot, make sure you have the following installed:
 Python 3.7 or higher
 
