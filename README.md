@@ -7,8 +7,6 @@ Python 3.7 or higher
 pip (Python package installer)
 
 
-
-
 To run the Corpus Wine Company chatbot, please follow these steps:
 
 
